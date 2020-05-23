@@ -17,7 +17,7 @@ public class PageContentTest {
     @Before
     public void setUp() throws Exception {
         System.setProperty("webdriver.chrome.driver",
-                "E:/Chrome_Downloads/chromedriver_win32_81/chromedriver.exe");
+                "E:/Chrome_Downloads/chromedriver_win32_83/chromedriver.exe");
 
         webDriver = new ChromeDriver();
         website = new Site(webDriver);

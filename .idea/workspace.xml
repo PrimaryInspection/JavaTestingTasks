@@ -2,44 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="954d9bf2-d12c-481e-895c-3489a104140f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_141_59.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_141_59.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_141_59.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ua/mishko/training/seleniumBrowserTest/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ua/mishko/training/seleniumBrowserTest/MainPage.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ua/mishko/training/seleniumBrowserTest/Site.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/ua/mishko/training/seleniumBrowserTest/PageContentTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ua/mishko/training/automationScenaries/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ua/mishko/training/automationScenaries/User.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/ua/mishko/training/automationScenaries/LogInTest.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/TestingTasks.iml" afterPath="$PROJECT_DIR$/TestingTasks.iml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mishko/training/Calculator.java" afterPath="$PROJECT_DIR$/src/main/java/ua/mishko/training/calculator/Calculator.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mishko/training/Main.java" afterPath="$PROJECT_DIR$/src/main/java/ua/mishko/training/calculator/Main.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mishko/training/NegativeSqrtException.java" afterPath="$PROJECT_DIR$/src/main/java/ua/mishko/training/calculator/NegativeSqrtException.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mishko/training/Operation.java" afterPath="$PROJECT_DIR$/src/main/java/ua/mishko/training/calculator/Operation.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ua/mishko/training/CalculatorTest.java" afterPath="$PROJECT_DIR$/src/test/java/ua/mishko/training/calculator/CalculatorTest.java" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/mishko/training/Calculator.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/mishko/training/Main.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/mishko/training/NegativeSqrtException.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ua/mishko/training/Operation.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ua/mishko/training/CalculatorTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/mishko/training/seleniumBrowserTest/Main.java" afterPath="$PROJECT_DIR$/src/main/java/ua/mishko/training/seleniumBrowserTest/Main.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ua/mishko/training/seleniumBrowserTest/PageContentTest.java" afterPath="$PROJECT_DIR$/src/test/java/ua/mishko/training/seleniumBrowserTest/PageContentTest.java" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/mishko/training/seleniumBrowserTest/Main.class" afterPath="$PROJECT_DIR$/target/classes/ua/mishko/training/seleniumBrowserTest/Main.class" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ua/mishko/training/seleniumBrowserTest/PageContentTest.class" afterPath="$PROJECT_DIR$/target/test-classes/ua/mishko/training/seleniumBrowserTest/PageContentTest.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -52,37 +22,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/mishko/training/calculator/Main.java">
+      <file leaf-file-name="LogInTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ua/mishko/training/automationScenaries/LogInTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            <state relative-caret-position="1921">
+              <caret line="127" column="0" lean-forward="true" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/mishko/training/seleniumBrowserTest/Main.java">
+      <file leaf-file-name="MainPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/mishko/training/seleniumBrowserTest/MainPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="48" lean-forward="false" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+            <state relative-caret-position="77">
+              <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PageContentTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ua/mishko/training/seleniumBrowserTest/PageContentTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-136">
-              <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#658#659#0" expanded="true" />
-                <element signature="e#714#715#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -98,31 +54,6 @@
                 <element signature="e#201#202#0" expanded="true" />
                 <element signature="e#234#235#0" expanded="true" />
                 <element signature="e#280#281#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainPage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/mishko/training/seleniumBrowserTest/MainPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="14" column="49" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CalculatorTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ua/mishko/training/calculator/CalculatorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="46" column="37" lean-forward="false" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
-              <folding>
-                <element signature="e#2928#2929#0" expanded="true" />
-                <element signature="e#2965#2966#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -163,12 +94,17 @@
         <option value="$PROJECT_DIR$/src/main/java/ua/mishko/training/calculator/Operation.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/ua/mishko/training/seleniumBrowserTest/MainTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/mishko/training/seleniumBrowserTest/Main.java" />
         <option value="$PROJECT_DIR$/src/test/java/ua/mishko/training/seleniumBrowserTest/RozetkaTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ua/mishko/training/seleniumBrowserTest/MainPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/mishko/training/seleniumBrowserTest/BooksSite.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/mishko/training/seleniumBrowserTest/Site.java" />
         <option value="$PROJECT_DIR$/src/test/java/ua/mishko/training/seleniumBrowserTest/ItBooksTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/mishko/training/automationScenaries/Main.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ua/mishko/training/automationScenaries/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ua/mishko/training/seleniumBrowserTest/PageContentTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/mishko/training/automationScenaries/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/mishko/training/seleniumBrowserTest/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/mishko/training/seleniumBrowserTest/MainPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ua/mishko/training/automationScenaries/LogInTest.java" />
       </list>
     </option>
   </component>
@@ -210,9 +146,8 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scratches" />
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -274,6 +209,17 @@
               <item name="ua" type="462c0819:PsiDirectoryNode" />
               <item name="mishko" type="462c0819:PsiDirectoryNode" />
               <item name="training" type="462c0819:PsiDirectoryNode" />
+              <item name="automationScenaries" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestingTasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestingTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ua" type="462c0819:PsiDirectoryNode" />
+              <item name="mishko" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
               <item name="calculator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -336,6 +282,17 @@
               <item name="ua" type="462c0819:PsiDirectoryNode" />
               <item name="mishko" type="462c0819:PsiDirectoryNode" />
               <item name="training" type="462c0819:PsiDirectoryNode" />
+              <item name="automationScenaries" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestingTasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestingTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ua" type="462c0819:PsiDirectoryNode" />
+              <item name="mishko" type="462c0819:PsiDirectoryNode" />
+              <item name="training" type="462c0819:PsiDirectoryNode" />
               <item name="calculator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -353,6 +310,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -362,6 +320,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="ua.mishko.training.automationScenaries" />
       <recent name="ua.mishko.training.seleniumBrowserTest" />
       <recent name="ua.mishko.training" />
     </key>
@@ -405,19 +364,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="ItBooksTest.accessTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LogInTest.BuyTshirtAndCheckingPriceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ua.mishko.training.seleniumBrowserTest.*" />
+          <option name="PATTERN" value="ua.mishko.training.automationScenaries.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="TestingTasks" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="ua.mishko.training.seleniumBrowserTest" />
-      <option name="MAIN_CLASS_NAME" value="ua.mishko.training.seleniumBrowserTest.ItBooksTest" />
-      <option name="METHOD_NAME" value="accessTest" />
+      <option name="PACKAGE_NAME" value="ua.mishko.training.automationScenaries" />
+      <option name="MAIN_CLASS_NAME" value="ua.mishko.training.automationScenaries.LogInTest" />
+      <option name="METHOD_NAME" value="BuyTshirtAndCheckingPriceTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -430,19 +389,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="ItBooksTest.getGooglePageMainElements" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LogInTest.checkDiscountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ua.mishko.training.seleniumBrowserTest.*" />
+          <option name="PATTERN" value="ua.mishko.training.automationScenaries.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="TestingTasks" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="ua.mishko.training.seleniumBrowserTest" />
-      <option name="MAIN_CLASS_NAME" value="ua.mishko.training.seleniumBrowserTest.ItBooksTest" />
-      <option name="METHOD_NAME" value="getGooglePageMainElements" />
+      <option name="PACKAGE_NAME" value="ua.mishko.training.automationScenaries" />
+      <option name="MAIN_CLASS_NAME" value="ua.mishko.training.automationScenaries.LogInTest" />
+      <option name="METHOD_NAME" value="checkDiscountTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -455,19 +414,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="ItBooksTest.getGooglePageTitle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LogInTest.emptyEmailAndPasswordFieldsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ua.mishko.training.seleniumBrowserTest.*" />
+          <option name="PATTERN" value="ua.mishko.training.automationScenaries.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="TestingTasks" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="ua.mishko.training.seleniumBrowserTest" />
-      <option name="MAIN_CLASS_NAME" value="ua.mishko.training.seleniumBrowserTest.ItBooksTest" />
-      <option name="METHOD_NAME" value="getGooglePageTitle" />
+      <option name="PACKAGE_NAME" value="ua.mishko.training.automationScenaries" />
+      <option name="MAIN_CLASS_NAME" value="ua.mishko.training.automationScenaries.LogInTest" />
+      <option name="METHOD_NAME" value="emptyEmailAndPasswordFieldsTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -480,19 +439,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="ItBooksTest.openWikipediaPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LogInTest.emptyEmailFieldTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ua.mishko.training.seleniumBrowserTest.*" />
+          <option name="PATTERN" value="ua.mishko.training.automationScenaries.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="TestingTasks" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="ua.mishko.training.seleniumBrowserTest" />
-      <option name="MAIN_CLASS_NAME" value="ua.mishko.training.seleniumBrowserTest.ItBooksTest" />
-      <option name="METHOD_NAME" value="openWikipediaPage" />
+      <option name="PACKAGE_NAME" value="ua.mishko.training.automationScenaries" />
+      <option name="MAIN_CLASS_NAME" value="ua.mishko.training.automationScenaries.LogInTest" />
+      <option name="METHOD_NAME" value="emptyEmailFieldTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -521,19 +480,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.ItBooksTest.accessTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.ItBooksTest.getGooglePageTitle" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.ItBooksTest.getGooglePageMainElements" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.ItBooksTest.openWikipediaPage" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.LogInTest.emptyEmailFieldTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.LogInTest.emptyEmailAndPasswordFieldsTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.LogInTest.BuyTshirtAndCheckingPriceTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.LogInTest.checkDiscountTest" />
       <item index="4" class="java.lang.String" itemvalue="JUnit.All in TestingTasks" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="JUnit.All in TestingTasks" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.ItBooksTest.openWikipediaPage" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.ItBooksTest.getGooglePageMainElements" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.ItBooksTest.getGooglePageTitle" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.ItBooksTest.accessTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.LogInTest.checkDiscountTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.LogInTest.BuyTshirtAndCheckingPriceTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.LogInTest.emptyEmailAndPasswordFieldsTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.LogInTest.emptyEmailFieldTest" />
       </list>
     </recent_temporary>
   </component>
@@ -551,48 +510,48 @@
       <option name="presentableId" value="Default" />
       <updated>1590065637443</updated>
       <workItem from="1590065641895" duration="8181000" />
-      <workItem from="1590154617327" duration="13578000" />
+      <workItem from="1590154617327" duration="13647000" />
+      <workItem from="1590242337084" duration="8344000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_TestingTasks - 2020.05.23 at 15h 02m 37s.xml">
+    <history-entry file="All_in_TestingTasks - 2020.05.23 at 19h 14m 40s.xml">
       <configuration name="All in TestingTasks" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ItBooksTest_openWikipediaPage - 2020.05.23 at 14h 42m 29s.xml">
-      <configuration name="ItBooksTest.openWikipediaPage" configurationId="JUnit" />
+    <history-entry file="LogInTest_BuyTshirtAndCheckingPriceTest - 2020.05.23 at 18h 56m 49s.xml">
+      <configuration name="LogInTest.BuyTshirtAndCheckingPriceTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ItBooksTest_openWikipediaPage - 2020.05.23 at 14h 44m 28s.xml">
-      <configuration name="ItBooksTest.openWikipediaPage" configurationId="JUnit" />
+    <history-entry file="LogInTest_BuyTshirtAndCheckingPriceTest - 2020.05.23 at 18h 57m 34s.xml">
+      <configuration name="LogInTest.BuyTshirtAndCheckingPriceTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ItBooksTest_openWikipediaPage - 2020.05.23 at 14h 44m 59s.xml">
-      <configuration name="ItBooksTest.openWikipediaPage" configurationId="JUnit" />
+    <history-entry file="LogInTest_BuyTshirtAndCheckingPriceTest - 2020.05.23 at 19h 00m 31s.xml">
+      <configuration name="LogInTest.BuyTshirtAndCheckingPriceTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ItBooksTest_openWikipediaPage - 2020.05.23 at 14h 47m 15s.xml">
-      <configuration name="ItBooksTest.openWikipediaPage" configurationId="JUnit" />
+    <history-entry file="LogInTest_checkDiscountTest - 2020.05.23 at 19h 06m 33s.xml">
+      <configuration name="LogInTest.checkDiscountTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ItBooksTest_openWikipediaPage - 2020.05.23 at 14h 49m 49s.xml">
-      <configuration name="ItBooksTest.openWikipediaPage" configurationId="JUnit" />
+    <history-entry file="LogInTest_checkDiscountTest - 2020.05.23 at 19h 07m 13s.xml">
+      <configuration name="LogInTest.checkDiscountTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ItBooksTest_openWikipediaPage - 2020.05.23 at 14h 50m 21s.xml">
-      <configuration name="ItBooksTest.openWikipediaPage" configurationId="JUnit" />
+    <history-entry file="LogInTest_checkDiscountTest - 2020.05.23 at 19h 08m 43s.xml">
+      <configuration name="LogInTest.checkDiscountTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ItBooksTest_openWikipediaPage - 2020.05.23 at 14h 55m 57s.xml">
-      <configuration name="ItBooksTest.openWikipediaPage" configurationId="JUnit" />
+    <history-entry file="LogInTest_checkDiscountTest - 2020.05.23 at 19h 09m 32s.xml">
+      <configuration name="LogInTest.checkDiscountTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ItBooksTest_openWikipediaPage - 2020.05.23 at 14h 59m 34s.xml">
-      <configuration name="ItBooksTest.openWikipediaPage" configurationId="JUnit" />
+    <history-entry file="LogInTest_checkDiscountTest - 2020.05.23 at 19h 09m 59s.xml">
+      <configuration name="LogInTest.checkDiscountTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ItBooksTest_openWikipediaPage - 2020.05.23 at 15h 00m 35s.xml">
-      <configuration name="ItBooksTest.openWikipediaPage" configurationId="JUnit" />
+    <history-entry file="LogInTest_checkDiscountTest - 2020.05.23 at 19h 10m 39s.xml">
+      <configuration name="LogInTest.checkDiscountTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21759000" />
+    <option name="totallyTimeSpent" value="30172000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -608,7 +567,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25340393" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25718608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -671,6 +630,70 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/ua/mishko/training/calculator/Main.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/mishko/training/seleniumBrowserTest/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="48" lean-forward="false" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/mishko/training/seleniumBrowserTest/Site.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/mishko/training/seleniumBrowserTest/MainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="49" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ua/mishko/training/calculator/CalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="46" column="37" lean-forward="false" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
+          <folding>
+            <element signature="e#2928#2929#0" expanded="false" />
+            <element signature="e#2965#2966#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ua/mishko/training/seleniumBrowserTest/PageContentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#714#715#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/mishko/training/calculator/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
@@ -690,12 +713,12 @@
         <state relative-caret-position="255">
           <caret line="15" column="79" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="79" />
           <folding>
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#732#733#0" expanded="true" />
-            <element signature="e#775#776#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="false" />
+            <element signature="e#172#173#0" expanded="false" />
+            <element signature="e#229#230#0" expanded="false" />
+            <element signature="e#263#264#0" expanded="false" />
+            <element signature="e#732#733#0" expanded="false" />
+            <element signature="e#775#776#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -705,8 +728,8 @@
         <state relative-caret-position="68">
           <caret line="5" column="59" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="59" />
           <folding>
-            <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="false" />
+            <element signature="e#205#206#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -716,8 +739,8 @@
         <state relative-caret-position="799">
           <caret line="47" column="37" lean-forward="false" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
           <folding>
-            <element signature="e#2928#2929#0" expanded="true" />
-            <element signature="e#2965#2966#0" expanded="true" />
+            <element signature="e#2928#2929#0" expanded="false" />
+            <element signature="e#2965#2966#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -755,17 +778,9 @@
         <state relative-caret-position="34">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding>
-            <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="false" />
+            <element signature="e#205#206#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/mishko/training/calculator/Operation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -774,12 +789,12 @@
         <state relative-caret-position="17">
           <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
           <folding>
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#732#733#0" expanded="true" />
-            <element signature="e#775#776#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="false" />
+            <element signature="e#172#173#0" expanded="false" />
+            <element signature="e#229#230#0" expanded="false" />
+            <element signature="e#263#264#0" expanded="false" />
+            <element signature="e#732#733#0" expanded="false" />
+            <element signature="e#775#776#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -792,42 +807,85 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/mishko/training/calculator/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="6" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/mishko/training/automationScenaries/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ua/mishko/training/calculator/CalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
+        <state relative-caret-position="207">
           <caret line="46" column="37" lean-forward="false" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
           <folding>
-            <element signature="e#2928#2929#0" expanded="true" />
-            <element signature="e#2965#2966#0" expanded="true" />
+            <element signature="e#2928#2929#0" expanded="false" />
+            <element signature="e#2965#2966#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/mishko/training/calculator/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/ua/mishko/training/seleniumBrowserTest/PageContentTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding />
+        <state relative-caret-position="170">
+          <caret line="19" column="58" lean-forward="false" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#714#715#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/mishko/training/automationScenaries/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#656#657#0" expanded="true" />
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#731#732#0" expanded="true" />
+            <element signature="e#769#770#0" expanded="true" />
+            <element signature="e#814#815#0" expanded="true" />
+            <element signature="e#855#856#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ua/mishko/training/seleniumBrowserTest/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="48" lean-forward="false" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ua/mishko/training/seleniumBrowserTest/MainPage.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/mishko/training/calculator/Operation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="14" column="49" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar!/org/openqa/selenium/WebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="22" column="15" lean-forward="false" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -844,15 +902,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ua/mishko/training/seleniumBrowserTest/PageContentTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/mishko/training/seleniumBrowserTest/MainPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-136">
-          <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        <state relative-caret-position="77">
+          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#658#659#0" expanded="true" />
-            <element signature="e#714#715#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ua/mishko/training/automationScenaries/LogInTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1921">
+          <caret line="127" column="0" lean-forward="true" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
