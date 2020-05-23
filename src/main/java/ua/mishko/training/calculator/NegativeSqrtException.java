@@ -1,4 +1,4 @@
-package ua.mishko.training;
+package ua.mishko.training.calculator;
 
 public class NegativeSqrtException extends RuntimeException{
 

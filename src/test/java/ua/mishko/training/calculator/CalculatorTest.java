@@ -1,15 +1,14 @@
-package ua.mishko.training;
+package ua.mishko.training.calculator;
 
 import org.junit.*;
-import org.junit.rules.ErrorCollector;
 import org.junit.rules.ExpectedException;
 import org.junit.rules.Timeout;
+import ua.mishko.training.calculator.Calculator;
+import ua.mishko.training.calculator.NegativeSqrtException;
 
 import java.util.concurrent.TimeUnit;
 
 import static org.hamcrest.CoreMatchers.not;
-import static org.hamcrest.core.StringContains.containsString;
-import static org.junit.Assert.*;
 
 public class CalculatorTest {
 
