@@ -13,7 +13,7 @@ import java.util.concurrent.TimeUnit;
 
 import static org.junit.Assert.*;
 
-public class LogInTest {
+public class ScenariesTest {
     WebDriver webDriver;
     Site website;
     User user;

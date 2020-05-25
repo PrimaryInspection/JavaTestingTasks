@@ -7,6 +7,8 @@ public class User {
      private String guestTitle;
      private String authorizedTitle;
      private String authorizedUsername;
+     private String phone;
+
 
     public User() {
         this.email = "andreimishko084934@gmail.com";
@@ -14,6 +16,7 @@ public class User {
         this.guestTitle = "Login - My Store";
         this.authorizedTitle = "My account - My Store";
         this.authorizedUsername = "Andrey Mishko";
+        this.phone = "0932017145";
     }
 
     public String getEmail() {
@@ -34,5 +37,9 @@ public class User {
 
     public String getAuthorizedUsername() {
         return authorizedUsername;
+    }
+
+    public String getPhone() {
+        return phone;
     }
 }
